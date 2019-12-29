@@ -20,7 +20,7 @@ function show8Ball() {
 \n\|  (8)  |\
 \n\\   ^   /\
 \n \'-...-\'\
-');
+\n SHAKING');
 shaking = !shaking };
 
 //show the ball a given number of times, then show answer
